@@ -1,0 +1,28 @@
+{
+  "label": "Stone Brick Stairs",
+  "tooltip": "Click to shift 1/2 block"
+  "collideWhenOff": true,
+  "collideWhenOn": true,
+  "lightLevel": 0,
+  "redstoneLevel": 0,
+  "shapesOff": [
+    {"bounds":[0,0,0,16,2,1],"tint":"FFFFFF","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,2,1,16,4,2],"tint":"FFFFFF","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,4,2,16,6,3],"tint":"FFFFFF","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,6,3,16,8,4],"tint":"FFFFFF","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,8,4,16,10,5],"tint":"FFFFFF","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,10,5,16,12,6],"tint":"FFFFFF","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,12,6,16,14,7],"tint":"FFFFFF","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,14,7,16,16,8],"tint":"FFFFFF","texture":"minecraft:block/white_wool"}
+  ],
+  "shapesOn": [
+    {"bounds":[0,0,8,16,2,9],"tint":"FFFFFF","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,2,9,16,4,10],"tint":"FFFFFF","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,4,10,16,6,11],"tint":"FFFFFF","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,6,11,16,8,12],"tint":"FFFFFF","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,8,12,16,10,13],"tint":"FFFFFF","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,10,13,16,12,14],"tint":"FFFFFF","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,12,14,16,14,15],"tint":"FFFFFF","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,14,15,16,16,16],"tint":"FFFFFF","texture":"minecraft:block/white_wool"}
+  ]
+}
